@@ -1,0 +1,215 @@
+.h1-span {
+  margin: 0 auto 10px;
+  width: 980px; }
+  .h1-span h1 {
+    width: 100%;
+    font-size: 16px;
+    float: left;
+    position: relative;
+    top: 50px;
+    right: 40px; }
+
+.sss {
+  background-color: #555;
+  border-radius: 5px;
+  float: left;
+  margin-right: 25px;
+  cursor: progress;
+  color: #fff;
+  padding: 6px 7px;
+  text-transform: lowercase;
+  font-size: 12px;
+  font-weight: 700; }
+
+.various {
+  background-color: #F00;
+  border-radius: 5px;
+  float: right;
+  color: #fff;
+  padding: 6px 7px;
+  text-transform: lowercase;
+  font-size: 12px;
+  font-weight: 700; }
+
+.clear {
+  clear: both; }
+
+.view-info-title {
+  font-weight: 700;
+  font-size: 14px;
+  float: left;
+  margin: 0 0 10px;
+  width: 105px;
+  line-height: 16px; }
+
+.title-full {
+  margin-left: 40px;
+  width: 100%;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  border-bottom: 1px solid #333; }
+
+.blackscreen {
+  position: absolute;
+  top: 102%;
+  right: 0px;
+  width: 273px;
+  height: 32px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.9);
+  color: #fff;
+  font: bold 12px/32px Verdana;
+  cursor: pointer;
+  border-radius: 4px; }
+
+.left-material {
+  float: left;
+  width: 275px;
+  margin-top: 49%;
+  margin-left: 40px; }
+
+.siyahi {
+  position: relative;
+  bottom: 40px;
+  right: 30px; }
+
+.poster-video {
+  min-height: 390px;
+  margin-bottom: 10px;
+  position: relative;
+  transition: .1s;
+  bottom: 360px;
+  right: 40px; }
+  .poster-video img {
+    border-radius: 5px;
+    float: left;
+    height: 390px;
+    width: 275px; }
+  .poster-video strong {
+    position: absolute;
+    top: 10px;
+    left: 0; }
+    .poster-video strong span {
+      border-top-right-radius: 10px;
+      border-bottom-right-radius: 10px;
+      text-align: center;
+      background: #E84C3D;
+      font-style: normal;
+      font-weight: 700;
+      color: #fff;
+      cursor: default; }
+  .poster-video i {
+    position: absolute;
+    top: 250px;
+    left: 0; }
+  .poster-video em {
+    position: absolute;
+    top: 290px;
+    left: 0; }
+  .poster-video span {
+    .
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
+    color: #fff;
+    cursor: default;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background: #E7663F; }
+
+hr {
+  margin: 20px 0;
+  border: 0;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #fff; }
+
+.view-info-content {
+  margin: 0 0 10px 120px;
+  line-height: 16px;
+  font-size: 14px; }
+
+.embed-responsive {
+  width: 526px;
+  height: 361px;
+  float: right;
+  left: 40px;
+  top: 40px; }
+
+.embed-responsive-item {
+  width: 680px;
+  height: 380px;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px; }
+
+.right-material {
+  margin-bottom: 0;
+  margin-top: -123%;
+  float: right; }
+  .right-material h2 {
+    font-weight: 700;
+    line-height: 25px;
+    font-size: 14px; }
+  .right-material article {
+    font-size: 12px;
+    text-align: justify;
+    padding-bottom: 15px; }
+
+.pl1 {
+  font-size: 10px;
+  padding: 0 0 9px;
+  text-align: center; }
+
+#iframe_daily {
+  width: 625px;
+  height: 352px;
+  float: right;
+  margin-right: -40px;
+  margin-top: 36px; }
+
+.season-area {
+  padding: 10px 0 0 0; }
+
+.season-h {
+  background: #5c687e;
+  padding: 0 12px;
+  height: 27px;
+  line-height: 27px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff; }
+  .season-h a {
+    float: right;
+    font-size: 11px;
+    color: #fff;
+    margin-left: 10px; }
+
+.season-list table {
+  width: 100%;
+  font-size: 12px;
+  font-weight: normal;
+  color: #000; }
+.season-list tr:nth-child(odd) {
+  background: #f3f5f7; }
+.season-list td {
+  padding: 5px; }
+
+.foot-main {
+  margin: 20px 0 10px;
+  padding: 10px;
+  border-top: 1px solid #ddd;
+  cursor: default; }
+  .foot-main p {
+    text-align: justify;
+    font-size: 12px;
+    color: #333;
+    line-height: 18px;
+    padding: 0 0 12px; }
+  .foot-main a {
+    color: #000;
+    border-bottom: 1px dotted red;
+    cursor: pointer; }
+
+/*# sourceMappingURL=filimebaxmaq.css.map */

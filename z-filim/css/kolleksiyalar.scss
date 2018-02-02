@@ -1,0 +1,44 @@
+.catbor {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+
+     li 
+    {
+    float: left;
+    width: 25%;
+
+    }
+
+    a
+    {
+    text-decoration: none;
+    border: none;
+    outline: 0;
+    color: #333;
+    }
+
+    span 
+    {
+    display: block;
+    text-align: center;
+    padding: 7px 0;
+    font-size: 13px;
+   }
+
+   img {
+    display: block;
+    width: 216px;
+    margin: 0 auto;
+}
+
+
+}
+
+
+.video{
+	list-style: none;
+    margin: 0 auto;
+    width: 980px;
+}

@@ -1,0 +1,69 @@
+.cat_h {
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+  color: #fff;
+  background-color: #ed6071;
+  padding: 10px 0;
+  font-weight: bold; }
+
+.card-header {
+  background-color: #ccc; }
+  .card-header a {
+    text-decoration: none;
+    color: black;
+    border: none;
+    outline: 0; }
+  .card-header h1 {
+    font-weight: 700;
+    color: #000;
+    font-size: 14px;
+    padding: 0;
+    margin: 0 0 10px;
+    cursor: pointer; }
+
+.xFieldSearchSubmit {
+  padding: 10px 10px 5px;
+  text-align: center;
+  background-color: #dadde2; }
+  .xFieldSearchSubmit input {
+    background-color: #ed6071;
+    width: 331px;
+    color: #fff;
+    padding: 6px;
+    font-weight: 700;
+    text-decoration: none;
+    border: none;
+    outline: 0;
+    text-transform: uppercase;
+    margin: 5px;
+    cursor: pointer; }
+
+.pols label {
+  background-color: #fff;
+  display: inline-block;
+  padding: 4px;
+  cursor: pointer; }
+.pols span {
+  background: #fff;
+  border: 1px solid #d9d9d9;
+  color: #000;
+  margin: 0 0 0 -23px;
+  display: inline-block;
+  padding: 6px 5px 4px 24px;
+  font-size: 12px;
+  width: 130px; }
+.pols input {
+  position: relative;
+  z-index: 2;
+  margin: 0 5px; }
+.pols ul {
+  list-style-type: none;
+  margin: 0 0 0 20px;
+  padding: 0; }
+.pols li {
+  display: inline;
+  margin: 5px;
+  padding: 0; }
+
+/*# sourceMappingURL=film.css.map */
